@@ -1,4 +1,4 @@
-# hoodease
+# Hoodease 
 
 Discover the Problem + the Solution :-
 
