@@ -8,7 +8,7 @@ https://www.figma.com/slides/iCocYfFKbIIofrG8ntOdRb/Research-Paper-Assignment-1?
 
 https://docs.google.com/spreadsheets/d/1YoOl5hcVJVrmc7Xo0JECq9yVrxG9xsNtIutG8LXORSU/edit?usp=sharing
 
-🗣️ Final Pitch Deck & Presentation :-
+🗣️ Pitch Deck & Presentation :-
 
 https://www.figma.com/slides/5fYZOclqpLo7zUMsiXxH2q/Pitchdeck-Assignment-3?node-id=1-42&t=RfNC9PCQNhzAxfE8-1
 
