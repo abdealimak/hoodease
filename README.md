@@ -4,7 +4,7 @@
 
 https://www.figma.com/slides/iCocYfFKbIIofrG8ntOdRb/Research-Paper-Assignment-1?node-id=1-266&t=YzshY6265XLD77tR-1
 
-💰 Cost & Revenue Model :-
+<h3>💰 Cost & Revenue Model :-</h3>
 
 https://docs.google.com/spreadsheets/d/1YoOl5hcVJVrmc7Xo0JECq9yVrxG9xsNtIutG8LXORSU/edit?usp=sharing
 
