@@ -1,6 +1,6 @@
 <h1>Hoodease 🦸‍♀️</h1>
 
-🎯 Discover the Problem + the Solution :-
+<h3>🎯 Discover the Problem + the Solution :-</h3>
 
 https://www.figma.com/slides/iCocYfFKbIIofrG8ntOdRb/Research-Paper-Assignment-1?node-id=1-266&t=YzshY6265XLD77tR-1
 
