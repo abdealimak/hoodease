@@ -1,7 +1,5 @@
-<h1>Hoodease 🦸‍♀️</h1>
-<br>
 <div>
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/32c8e216-d98d-4459-a7b9-50e50be78e82" />
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/32c8e216-d98d-4459-a7b9-50e50be78e82" /><h1>Hoodease 🦸‍♀️</h1>
 </div>
 
 <h3>🎯 Discover the Problem + the Solution :-</h3>
