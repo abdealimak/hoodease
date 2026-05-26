@@ -1,7 +1,7 @@
 <h1> Hoodease 🦸‍♀️ </h1>
-<p>Empowering Homemakers Serving Neighbourhood Needs</p>
+<p> Empowering Homemakers, Serving Neighbourhood Needs </p>
 
-
+<br>
 <div>
   <img width="200" height="200" alt="logo" src="https://github.com/user-attachments/assets/32c8e216-d98d-4459-a7b9-50e50be78e82" />
 </div>
