@@ -1,4 +1,5 @@
 <h1> Hoodease 🦸‍♀️ </h1>
+<h1> Empowering homemakers </h1>
 
 
 <div>
